@@ -1,0 +1,13 @@
+Rufus Download links
+
+Windows 64 - 
+https://github.com/pbatard/rufus/releases/download/v4.14/rufus-4.14.exe
+
+Portale 64-
+https://github.com/pbatard/rufus/releases/download/v4.14/rufus-4.14p.exe
+
+Windows 32 - 
+https://github.com/pbatard/rufus/releases/download/v4.14/rufus-4.14_x86.exe
+
+Windows ARM64 -
+https://github.com/pbatard/rufus/releases/download/v4.14/rufus-4.14_arm64.exe
